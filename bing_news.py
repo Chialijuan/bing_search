@@ -1,4 +1,4 @@
-from py_ms_cognitive impotr PyMsCognitiveNewsSearch
+from py_ms_cognitive import PyMsCognitiveNewsSearch
 
 API_KEY = '24eb8d76e5714f6da0236db40aeb6fc6'
 
